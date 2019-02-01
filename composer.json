@@ -1,0 +1,14 @@
+{
+    "name": "paikwiki/oop-study",
+    "type": "project",
+    "authors": [
+        {
+            "name": "paikwiki",
+            "email": "paikwiki@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"": "classes/"}
+    },
+    "require": {}
+}
